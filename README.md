@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @niko700
 - 👀 I’m interested in learning to use Python with ArcGIS
-- 🌱 I’m currently learning Python
+- 🌱 Currently learning Python
+- Would like to learn VBA, SQL and R
 
 <!---
 niko700/niko700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
